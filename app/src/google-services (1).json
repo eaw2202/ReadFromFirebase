@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "467329714372",
+    "firebase_url": "https://readfromfirebase-64a12.firebaseio.com",
+    "project_id": "readfromfirebase-64a12",
+    "storage_bucket": "readfromfirebase-64a12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467329714372:android:293c17890dad6ea3",
+        "android_client_info": {
+          "package_name": "com.elysewarren.readfromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467329714372-070sfkh26dm61sfrss1bjfsc6si38qg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaZ-JuS3cZOqvThe_y-dh8Py8MsPdRao8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
